@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 clone a file in master from github in master
 by 2244
 master
+=======
+clone a file from github
+by 2244
+new dev
+>>>>>>> dev
